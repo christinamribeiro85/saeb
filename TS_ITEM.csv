@@ -1,0 +1,1070 @@
+ID_SERIE;TIPO_PROVA;DISCIPLINA;ID_SERIE_ITEM;ID_BLOCO;ID_POSICAO;ID_ITEM;ID_DESCRITOR_HABILIDADE;GABARITO
+2;Macrotipo;LP;2;1;1;117484;H1.1;B
+2;Macrotipo;LP;2;1;2;117496;H2.1;C
+2;Macrotipo;LP;2;1;3;117535;H2.1;D
+2;Macrotipo;LP;2;1;4;117442;H4;B
+2;Macrotipo;LP;2;1;5;117438;H5;C
+2;Macrotipo;LP;2;1;6;117512;H7;D
+2;Macrotipo;LP;2;1;7;117480;H8.1;B
+2;Macrotipo;LP;2;1;8;117443;H9;D
+2;Macrotipo;LP;2;2;1;117411;H1.2;B
+2;Macrotipo;LP;2;2;2;117351;H2.1;A
+2;Macrotipo;LP;2;2;3;117473;H2.2;C
+2;Macrotipo;LP;2;2;4;117479;H4;C
+2;Macrotipo;LP;2;2;5;117474;H4;C
+2;Macrotipo;LP;2;2;6;117493;H5;D
+2;Macrotipo;LP;2;2;7;117492;H6;C
+2;Macrotipo;LP;2;2;8;117419;H8.2;D
+2;Prova Regular;LP;2;1;1;117325;H1.1;B
+2;Prova Regular;LP;2;1;2;117351;H2.1;A
+2;Prova Regular;LP;2;1;3;117350;H2.2;A
+2;Prova Regular;LP;2;1;4;117353;H4;C
+2;Prova Regular;LP;2;1;5;117324;H5;D
+2;Prova Regular;LP;2;1;6;117339;H6;C
+2;Prova Regular;LP;2;1;7;117481;H7;B
+2;Prova Regular;LP;2;1;8;117337;H9;C
+2;Prova Regular;LP;2;2;1;117416;H1.1;A
+2;Prova Regular;LP;2;2;2;117432;H2.1;A
+2;Prova Regular;LP;2;2;3;117433;H2.2;C
+2;Prova Regular;LP;2;2;4;117401;H4;D
+2;Prova Regular;LP;2;2;5;117341;H5;D
+2;Prova Regular;LP;2;2;6;117421;H6;B
+2;Prova Regular;LP;2;2;7;117430;H7;C
+2;Prova Regular;LP;2;2;8;117497;H9;D
+2;Prova Regular;LP;2;3;1;117494;H1.1;C
+2;Prova Regular;LP;2;3;2;117472;H2.1;D
+2;Prova Regular;LP;2;3;3;117478;H2.2;C
+2;Prova Regular;LP;2;3;4;117434;H4;B
+2;Prova Regular;LP;2;3;5;117415;H5;C
+2;Prova Regular;LP;2;3;6;117403;H7;D
+2;Prova Regular;LP;2;3;7;117476;H8.1;B
+2;Prova Regular;LP;2;3;8;117427;H9;D
+2;Prova Regular;LP;2;4;1;117484;H1.1;B
+2;Prova Regular;LP;2;4;2;117496;H2.1;C
+2;Prova Regular;LP;2;4;3;117535;H2.1;D
+2;Prova Regular;LP;2;4;4;117442;H4;B
+2;Prova Regular;LP;2;4;5;117438;H5;C
+2;Prova Regular;LP;2;4;6;117512;H7;D
+2;Prova Regular;LP;2;4;7;117480;H8.1;B
+2;Prova Regular;LP;2;4;8;117443;H9;D
+2;Prova Regular;LP;2;5;1;117534;H1.1;B
+2;Prova Regular;LP;2;5;2;117326;H1.2;C
+2;Prova Regular;LP;2;5;3;117334;H2.2;B
+2;Prova Regular;LP;2;5;4;117474;H4;C
+2;Prova Regular;LP;2;5;5;117452;H5;B
+2;Prova Regular;LP;2;5;6;117405;H7;C
+2;Prova Regular;LP;2;5;7;117538;H8.1;D
+2;Prova Regular;LP;2;5;8;117475;H9;D
+2;Prova Regular;LP;2;6;1;117440;H1.2;C
+2;Prova Regular;LP;2;6;2;117439;H2.1;C
+2;Prova Regular;LP;2;6;3;117404;H2.2;A
+2;Prova Regular;LP;2;6;4;117485;H4;A
+2;Prova Regular;LP;2;6;5;117533;H5;C
+2;Prova Regular;LP;2;6;6;117482;H6;D
+2;Prova Regular;LP;2;6;7;117413;H8.2;D
+2;Prova Regular;LP;2;6;8;117402;H9;B
+2;Prova Regular;LP;2;7;1;117411;H1.2;B
+2;Prova Regular;LP;2;7;2;117495;H2.1;A
+2;Prova Regular;LP;2;7;3;117473;H2.2;C
+2;Prova Regular;LP;2;7;4;117479;H4;C
+2;Prova Regular;LP;2;7;5;117537;H4;C
+2;Prova Regular;LP;2;7;6;117493;H5;D
+2;Prova Regular;LP;2;7;7;117492;H6;C
+2;Prova Regular;LP;2;7;8;117419;H8.2;D
+2;Macrotipo;MT;2;1;1;117196;2G1.2;A
+2;Macrotipo;MT;2;1;2;117193;2N2.1;B
+2;Macrotipo;MT;2;1;3;117318;2M1.1;D
+2;Macrotipo;MT;2;1;4;117156;2N1.7;C
+2;Macrotipo;MT;2;1;5;117253;2M2.1;D
+2;Macrotipo;MT;2;1;6;114843;2M2.2;C
+2;Macrotipo;MT;2;1;7;114074;2A1.2;D
+2;Macrotipo;MT;2;1;8;117106;2N1.3;B
+2;Macrotipo;MT;2;1;9;116168;2E1.1;A
+2;Macrotipo;MT;2;2;1;117220;2G1.2;D
+2;Macrotipo;MT;2;2;2;117221;2M1.4;A
+2;Macrotipo;MT;2;2;3;117201;2M1.7;B
+2;Macrotipo;MT;2;2;4;117257;2E1.3;C
+2;Macrotipo;MT;2;2;5;117214;2A1.4;B
+2;Macrotipo;MT;2;2;6;117219;2N1.7;C
+2;Macrotipo;MT;2;2;7;115625;2M2.2;A
+2;Macrotipo;MT;2;2;8;117255;2N1.3;A
+2;Macrotipo;MT;2;2;9;117197;2N2.2;B
+2;Prova Regular;MT;2;1;1;117318;2M1.1;D
+2;Prova Regular;MT;2;1;2;117126;2E1.2;C
+2;Prova Regular;MT;2;1;3;117163;2N2.1;C
+2;Prova Regular;MT;2;1;4;117254;2N2.2;B
+2;Prova Regular;MT;2;1;5;119465;2G1.1;D
+2;Prova Regular;MT;2;1;6;115996;2M1.1;B
+2;Prova Regular;MT;2;1;7;116175;2E1.1;A
+2;Prova Regular;MT;2;1;8;115396;2M1.4;C
+2;Prova Regular;MT;2;1;9;115398;2A1.1;C
+2;Prova Regular;MT;2;2;1;117308;2E1.2;C
+2;Prova Regular;MT;2;2;2;115919;2N1.2;C
+2;Prova Regular;MT;2;2;3;117160;2M1.6;D
+2;Prova Regular;MT;2;2;4;117125;2G1.2;D
+2;Prova Regular;MT;2;2;5;113604;2M1.2;B
+2;Prova Regular;MT;2;2;6;117128;2A1.4;C
+2;Prova Regular;MT;2;2;7;117123;2N2.1;A
+2;Prova Regular;MT;2;2;8;117173;2N1.8;A
+2;Prova Regular;MT;2;2;9;114773;2G1.1;A
+2;Prova Regular;MT;2;3;1;117107;2E1.3;C
+2;Prova Regular;MT;2;3;2;117235;2N1.5;B
+2;Prova Regular;MT;2;3;3;117317;2M1.1;C
+2;Prova Regular;MT;2;3;4;117152;2G1.3;D
+2;Prova Regular;MT;2;3;5;117310;2N2.2;D
+2;Prova Regular;MT;2;3;6;117212;2N1.3;D
+2;Prova Regular;MT;2;3;7;117213;2M1.7;B
+2;Prova Regular;MT;2;3;8;115981;2N1.1;C
+2;Prova Regular;MT;2;3;9;114076;2A1.3;A
+2;Prova Regular;MT;2;4;1;117198;2G1.3;A
+2;Prova Regular;MT;2;4;2;117131;2N1.3;A
+2;Prova Regular;MT;2;4;3;117194;2E1.3;C
+2;Prova Regular;MT;2;4;4;117155;2N2.1;A
+2;Prova Regular;MT;2;4;5;117162;2A1.4;C
+2;Prova Regular;MT;2;4;6;117110;2M2.1;B
+2;Prova Regular;MT;2;4;7;117165;2G1.2;D
+2;Prova Regular;MT;2;4;8;117222;2N1.6;B
+2;Prova Regular;MT;2;4;9;117154;2M1.7;B
+2;Prova Regular;MT;2;5;1;117196;2G1.2;A
+2;Prova Regular;MT;2;5;2;117193;2N2.1;B
+2;Prova Regular;MT;2;5;3;117166;2M1.1;B
+2;Prova Regular;MT;2;5;4;117156;2N1.7;C
+2;Prova Regular;MT;2;5;5;117253;2M2.1;D
+2;Prova Regular;MT;2;5;6;114843;2M2.2;C
+2;Prova Regular;MT;2;5;7;114074;2A1.2;D
+2;Prova Regular;MT;2;5;8;117106;2N1.3;B
+2;Prova Regular;MT;2;5;9;116168;2E1.1;A
+2;Prova Regular;MT;2;6;1;117220;2G1.2;D
+2;Prova Regular;MT;2;6;2;117221;2M1.4;A
+2;Prova Regular;MT;2;6;3;117201;2M1.7;B
+2;Prova Regular;MT;2;6;4;117257;2E1.3;C
+2;Prova Regular;MT;2;6;5;117214;2A1.4;B
+2;Prova Regular;MT;2;6;6;117219;2N1.7;C
+2;Prova Regular;MT;2;6;7;115625;2M2.2;A
+2;Prova Regular;MT;2;6;8;117255;2N1.3;A
+2;Prova Regular;MT;2;6;9;117197;2N2.2;B
+2;Prova Regular;MT;2;7;1;117217;2E1.3;C
+2;Prova Regular;MT;2;7;2;119577;2M1.3;C
+2;Prova Regular;MT;2;7;3;117313;2E1.2;B
+2;Prova Regular;MT;2;7;4;117167;2G1.3;A
+2;Prova Regular;MT;2;7;5;117306;2M1.6;D
+2;Prova Regular;MT;2;7;6;117256;2M1.7;D
+2;Prova Regular;MT;2;7;7;117105;2N1.5;A
+2;Prova Regular;MT;2;7;8;117129;2N2.2;C
+2;Prova Regular;MT;2;7;9;116006;2N1.6;C
+3;Macrotipo;LP;3;1;1;110809;D6;A
+3;Macrotipo;LP;3;1;2;110206;D9;D
+3;Macrotipo;LP;3;1;3;110461;D12;E
+3;Macrotipo;LP;3;1;4;45655;D14;E
+3;Macrotipo;LP;3;1;5;45564;D18;B
+3;Macrotipo;LP;3;1;6;45490;D21;C
+3;Macrotipo;LP;9;1;7;109866;D12;C
+3;Macrotipo;LP;9;1;8;109937;D14;B
+3;Macrotipo;LP;9;1;9;111224;D16;D
+3;Macrotipo;LP;3;1;10;111072;D14;E
+3;Macrotipo;LP;3;1;11;111342;D15;C
+3;Macrotipo;LP;3;1;12;69485;D17;B
+3;Macrotipo;LP;3;1;13;111287;D19;A
+3;Macrotipo;LP;3;2;1;110834;D7;C
+3;Macrotipo;LP;3;2;2;110999;D10;D
+3;Macrotipo;LP;3;2;3;109692;D12;D
+3;Macrotipo;LP;3;2;4;34045;D9;B
+3;Macrotipo;LP;3;2;5;45651;D6;E
+3;Macrotipo;LP;3;2;6;45545;D7;A
+3;Macrotipo;LP;9;2;7;109216;D6;B
+3;Macrotipo;LP;9;2;8;70152;D8;A
+3;Macrotipo;LP;9;2;9;110499;D12;A
+3;Macrotipo;LP;3;2;10;109229;D15;A
+3;Macrotipo;LP;3;2;11;68080;D17;D
+3;Macrotipo;LP;3;2;12;110886;D18;B
+3;Macrotipo;LP;3;2;13;110812;D20;B
+3;Prova Regular;LP;3;1;1;109966;D1;E
+3;Prova Regular;LP;3;1;2;69858;D5;A
+3;Prova Regular;LP;3;1;3;109592;D10;B
+3;Prova Regular;LP;3;1;4;70148;D2;D
+3;Prova Regular;LP;3;1;5;69889;D15;B
+3;Prova Regular;LP;3;1;6;69688;D1;D
+3;Prova Regular;LP;9;1;7;110907;D13;A
+3;Prova Regular;LP;9;1;8;110152;D1;C
+3;Prova Regular;LP;9;1;9;109806;D8;C
+3;Prova Regular;LP;3;1;10;110465;D13;B
+3;Prova Regular;LP;3;1;11;109258;D15;C
+3;Prova Regular;LP;3;1;12;69666;D19;C
+3;Prova Regular;LP;3;1;13;111004;D21;C
+3;Prova Regular;LP;3;2;1;110502;D2;D
+3;Prova Regular;LP;3;2;2;111062;D7;A
+3;Prova Regular;LP;3;2;3;110092;D10;A
+3;Prova Regular;LP;3;2;4;66563;D5;A
+3;Prova Regular;LP;3;2;5;65844;D2;B
+3;Prova Regular;LP;3;2;6;65810;D13;D
+3;Prova Regular;LP;9;2;7;69125;D18;A
+3;Prova Regular;LP;9;2;8;109630;D15;A
+3;Prova Regular;LP;9;2;9;109535;D19;C
+3;Prova Regular;LP;3;2;10;110579;D13;C
+3;Prova Regular;LP;3;2;11;110088;D16;E
+3;Prova Regular;LP;3;2;12;110931;D18;B
+3;Prova Regular;LP;3;2;13;110115;D21;A
+3;Prova Regular;LP;3;3;1;110873;D4;E
+3;Prova Regular;LP;3;3;2;110555;D8;D
+3;Prova Regular;LP;3;3;3;109244;D11;E
+3;Prova Regular;LP;3;3;4;65287;D2;E
+3;Prova Regular;LP;3;3;5;46778;D9;B
+3;Prova Regular;LP;3;3;6;46724;D16;A
+3;Prova Regular;LP;9;3;7;109354;D2;D
+3;Prova Regular;LP;9;3;8;111302;D11;B
+3;Prova Regular;LP;9;3;9;109459;D6;B
+3;Prova Regular;LP;3;3;10;110940;D14;A
+3;Prova Regular;LP;3;3;11;109819;D16;E
+3;Prova Regular;LP;3;3;12;110841;D18;A
+3;Prova Regular;LP;3;3;13;111085;D19;A
+3;Prova Regular;LP;3;4;1;110427;D5;B
+3;Prova Regular;LP;3;4;2;110414;D9;E
+3;Prova Regular;LP;3;4;3;109717;D12;C
+3;Prova Regular;LP;3;4;4;33949;D10;E
+3;Prova Regular;LP;3;4;5;34489;D16;E
+3;Prova Regular;LP;3;4;6;45562;D19;C
+3;Prova Regular;LP;9;4;7;109887;D12;C
+3;Prova Regular;LP;9;4;8;109426;D21;A
+3;Prova Regular;LP;9;4;9;110848;D7;C
+3;Prova Regular;LP;3;4;10;110958;D14;E
+3;Prova Regular;LP;3;4;11;69485;D17;B
+3;Prova Regular;LP;3;4;12;109924;D19;C
+3;Prova Regular;LP;3;4;13;67424;D20;A
+3;Prova Regular;LP;3;5;1;110809;D6;A
+3;Prova Regular;LP;3;5;2;110206;D9;D
+3;Prova Regular;LP;3;5;3;110461;D12;E
+3;Prova Regular;LP;3;5;4;45655;D14;E
+3;Prova Regular;LP;3;5;5;45564;D18;B
+3;Prova Regular;LP;3;5;6;45490;D21;C
+3;Prova Regular;LP;9;5;7;109866;D12;C
+3;Prova Regular;LP;9;5;8;109937;D14;B
+3;Prova Regular;LP;9;5;9;111224;D16;D
+3;Prova Regular;LP;3;5;10;111072;D14;E
+3;Prova Regular;LP;3;5;11;111342;D15;C
+3;Prova Regular;LP;3;5;12;110455;D17;A
+3;Prova Regular;LP;3;5;13;111287;D19;A
+3;Prova Regular;LP;3;6;1;110834;D7;C
+3;Prova Regular;LP;3;6;2;110999;D10;D
+3;Prova Regular;LP;3;6;3;109692;D12;D
+3;Prova Regular;LP;3;6;4;34045;D9;B
+3;Prova Regular;LP;3;6;5;45651;D6;E
+3;Prova Regular;LP;3;6;6;45545;D7;A
+3;Prova Regular;LP;9;6;7;109216;D6;B
+3;Prova Regular;LP;9;6;8;70152;D8;A
+3;Prova Regular;LP;9;6;9;110499;D12;A
+3;Prova Regular;LP;3;6;10;109229;D15;A
+3;Prova Regular;LP;3;6;11;68080;D17;D
+3;Prova Regular;LP;3;6;12;110886;D18;B
+3;Prova Regular;LP;3;6;13;110812;D20;B
+3;Prova Regular;LP;3;7;1;110413;D3;D
+3;Prova Regular;LP;3;7;2;110314;D8;E
+3;Prova Regular;LP;3;7;3;69953;D4;E
+3;Prova Regular;LP;3;7;4;34028;D6;E
+3;Prova Regular;LP;3;7;5;34351;D15;C
+3;Prova Regular;LP;3;7;6;34221;D1;B
+3;Prova Regular;LP;9;7;7;69445;D17;A
+3;Prova Regular;LP;9;7;8;110752;D7;D
+3;Prova Regular;LP;9;7;9;110523;D1;A
+3;Prova Regular;LP;3;7;10;110214;D11;C
+3;Prova Regular;LP;3;7;11;109587;D14;C
+3;Prova Regular;LP;3;7;12;65533;D16;D
+3;Prova Regular;LP;3;7;13;110783;D20;E
+3;Macrotipo;MT;3;1;1;110632;D34;C
+3;Macrotipo;MT;3;1;2;65843;D18;B
+3;Macrotipo;MT;3;1;3;66020;D31;A
+3;Macrotipo;MT;3;1;4;29891;D20;D
+3;Macrotipo;MT;3;1;5;47239;D15;B
+3;Macrotipo;MT;3;1;6;70455;D19;A
+3;Macrotipo;MT;9;1;7;22358;D16;C
+3;Macrotipo;MT;9;1;8;112292;D24;A
+3;Macrotipo;MT;9;1;9;110174;D3;D
+3;Macrotipo;MT;3;1;10;111020;D24;E
+3;Macrotipo;MT;3;1;11;109864;D13;C
+3;Macrotipo;MT;3;1;12;110554;D25;D
+3;Macrotipo;MT;3;1;13;103177;D32;B
+3;Macrotipo;MT;3;2;1;111038;D34;C
+3;Macrotipo;MT;3;2;2;110758;D29;E
+3;Macrotipo;MT;3;2;3;102924;D33;B
+3;Macrotipo;MT;3;2;4;45554;D22;C
+3;Macrotipo;MT;3;2;5;45551;D5;D
+3;Macrotipo;MT;3;2;6;70457;D19;E
+3;Macrotipo;MT;9;2;7;109873;D2;D
+3;Macrotipo;MT;9;2;8;109872;D29;A
+3;Macrotipo;MT;9;2;9;46114;D22;A
+3;Macrotipo;MT;3;2;10;110713;D31;B
+3;Macrotipo;MT;3;2;11;109698;D30;D
+3;Macrotipo;MT;3;2;12;102826;D16;D
+3;Macrotipo;MT;3;2;13;22317;D2;D
+3;Prova Regular;MT;3;1;1;111355;D34;E
+3;Prova Regular;MT;3;1;2;28613;D2;B
+3;Prova Regular;MT;3;1;3;110117;D12;C
+3;Prova Regular;MT;3;1;4;22365;D21;D
+3;Prova Regular;MT;3;1;5;45554;D22;C
+3;Prova Regular;MT;3;1;6;28611;D5;D
+3;Prova Regular;MT;9;1;7;111022;D37;B
+3;Prova Regular;MT;9;1;8;111140;D33;D
+3;Prova Regular;MT;9;1;9;110754;D4;A
+3;Prova Regular;MT;3;1;10;110658;D25;C
+3;Prova Regular;MT;3;1;11;102826;D16;D
+3;Prova Regular;MT;3;1;12;111009;D28;C
+3;Prova Regular;MT;3;1;13;102835;D8;A
+3;Prova Regular;MT;3;2;1;111074;D35;D
+3;Prova Regular;MT;3;2;2;102842;D12;A
+3;Prova Regular;MT;3;2;3;110696;D21;C
+3;Prova Regular;MT;3;2;4;45526;D34;E
+3;Prova Regular;MT;3;2;5;22197;D4;D
+3;Prova Regular;MT;3;2;6;66305;D11;B
+3;Prova Regular;MT;9;2;7;111299;D33;D
+3;Prova Regular;MT;9;2;8;110417;D28;A
+3;Prova Regular;MT;9;2;9;34936;D9;C
+3;Prova Regular;MT;3;2;10;111209;D17;C
+3;Prova Regular;MT;3;2;11;110012;D32;B
+3;Prova Regular;MT;3;2;12;102875;D5;C
+3;Prova Regular;MT;3;2;13;110612;D16;A
+3;Prova Regular;MT;3;3;1;110739;D35;A
+3;Prova Regular;MT;3;3;2;109594;D15;C
+3;Prova Regular;MT;3;3;3;111281;D2;B
+3;Prova Regular;MT;3;3;4;70455;D19;A
+3;Prova Regular;MT;3;3;5;28009;D3;E
+3;Prova Regular;MT;3;3;6;70488;D14;C
+3;Prova Regular;MT;9;3;7;111359;D34;A
+3;Prova Regular;MT;9;3;8;67422;D14;A
+3;Prova Regular;MT;9;3;9;46383;D21;A
+3;Prova Regular;MT;3;3;10;111349;D18;C
+3;Prova Regular;MT;3;3;11;110750;D26;D
+3;Prova Regular;MT;3;3;12;110398;D24;B
+3;Prova Regular;MT;3;3;13;102909;D21;E
+3;Prova Regular;MT;3;4;1;111377;D35;C
+3;Prova Regular;MT;3;4;2;65843;D18;B
+3;Prova Regular;MT;3;4;3;66020;D31;A
+3;Prova Regular;MT;3;4;4;22314;D23;A
+3;Prova Regular;MT;3;4;5;29891;D20;D
+3;Prova Regular;MT;3;4;6;47239;D15;B
+3;Prova Regular;MT;9;4;7;22358;D16;C
+3;Prova Regular;MT;9;4;8;112292;D24;A
+3;Prova Regular;MT;9;4;9;110174;D3;D
+3;Prova Regular;MT;3;4;10;111020;D24;E
+3;Prova Regular;MT;3;4;11;109864;D13;C
+3;Prova Regular;MT;3;4;12;110554;D25;D
+3;Prova Regular;MT;3;4;13;103177;D32;B
+3;Prova Regular;MT;3;5;1;111038;D34;C
+3;Prova Regular;MT;3;5;2;110758;D29;E
+3;Prova Regular;MT;3;5;3;109698;D30;D
+3;Prova Regular;MT;3;5;4;22311;D35;E
+3;Prova Regular;MT;3;5;5;45551;D5;D
+3;Prova Regular;MT;3;5;6;70457;D19;E
+3;Prova Regular;MT;9;5;7;109873;D2;D
+3;Prova Regular;MT;9;5;8;109872;D29;A
+3;Prova Regular;MT;9;5;9;109513;D12;A
+3;Prova Regular;MT;3;5;10;110714;D23;B
+3;Prova Regular;MT;3;5;11;102924;D33;B
+3;Prova Regular;MT;3;5;12;22317;D2;D
+3;Prova Regular;MT;3;5;13;110713;D31;B
+3;Prova Regular;MT;3;6;1;110632;D34;C
+3;Prova Regular;MT;3;6;2;68900;D16;D
+3;Prova Regular;MT;3;6;3;110929;D9;D
+3;Prova Regular;MT;3;6;4;45522;D20;C
+3;Prova Regular;MT;3;6;5;70496;D14;A
+3;Prova Regular;MT;3;6;6;28860;D23;B
+3;Prova Regular;MT;9;6;7;46114;D22;A
+3;Prova Regular;MT;9;6;8;110516;D5;C
+3;Prova Regular;MT;9;6;9;67305;D13;B
+3;Prova Regular;MT;3;6;10;109431;D17;A
+3;Prova Regular;MT;3;6;11;103149;D33;C
+3;Prova Regular;MT;3;6;12;110378;D7;E
+3;Prova Regular;MT;3;6;13;109959;D13;B
+3;Prova Regular;MT;3;7;1;112332;D6;A
+3;Prova Regular;MT;3;7;2;111352;D12;D
+3;Prova Regular;MT;3;7;3;110822;D19;B
+3;Prova Regular;MT;3;7;4;69766;D3;A
+3;Prova Regular;MT;3;7;5;69169;D20;A
+3;Prova Regular;MT;3;7;6;65885;D18;B
+3;Prova Regular;MT;9;7;7;66364;D16;C
+3;Prova Regular;MT;9;7;8;110466;D36;B
+3;Prova Regular;MT;9;7;9;103238;D10;B
+3;Prova Regular;MT;3;7;10;111039;D15;B
+3;Prova Regular;MT;3;7;11;47129;D11;D
+3;Prova Regular;MT;3;7;12;110955;D27;D
+3;Prova Regular;MT;3;7;13;102866;D8;E
+5;Macrotipo;LP;5;1;1;34693;D14;D
+5;Macrotipo;LP;5;1;2;34080;D11;D
+5;Macrotipo;LP;5;1;3;20031;D9;A
+5;Macrotipo;LP;5;1;4;46160;D4;C
+5;Macrotipo;LP;5;1;5;95391;D12;C
+5;Macrotipo;LP;5;1;6;95064;D6;D
+5;Macrotipo;LP;5;1;7;96143;D8;B
+5;Macrotipo;LP;5;1;8;20208;D6;B
+5;Macrotipo;LP;5;1;9;68987;D4;A
+5;Macrotipo;LP;5;1;10;34859;D2;B
+5;Macrotipo;LP;5;1;11;95151;D8;C
+5;Macrotipo;LP;5;2;1;34311;D14;D
+5;Macrotipo;LP;5;2;2;33913;D1;D
+5;Macrotipo;LP;5;2;3;95145;D3;B
+5;Macrotipo;LP;5;2;4;95006;D8;A
+5;Macrotipo;LP;5;2;5;96097;D13;D
+5;Macrotipo;LP;5;2;6;95393;D12;D
+5;Macrotipo;LP;5;2;7;96170;D4;D
+5;Macrotipo;LP;5;2;8;95033;D6;C
+5;Macrotipo;LP;5;2;9;95037;D8;C
+5;Macrotipo;LP;5;2;10;34677;D2;D
+5;Macrotipo;LP;5;2;11;34703;D12;C
+5;Prova Regular;LP;5;1;1;95359;D14;B
+5;Prova Regular;LP;5;1;2;34080;D11;D
+5;Prova Regular;LP;5;1;3;20031;D9;A
+5;Prova Regular;LP;5;1;4;46160;D4;C
+5;Prova Regular;LP;5;1;5;95391;D12;C
+5;Prova Regular;LP;5;1;6;95064;D6;D
+5;Prova Regular;LP;5;1;7;96143;D8;B
+5;Prova Regular;LP;5;1;8;20208;D6;B
+5;Prova Regular;LP;5;1;9;68987;D4;A
+5;Prova Regular;LP;5;1;10;34859;D2;B
+5;Prova Regular;LP;5;1;11;95151;D8;C
+5;Prova Regular;LP;5;2;1;34693;D14;D
+5;Prova Regular;LP;5;2;2;34021;D12;B
+5;Prova Regular;LP;5;2;3;66158;D10;C
+5;Prova Regular;LP;5;2;4;95371;D5;A
+5;Prova Regular;LP;5;2;5;95916;D11;A
+5;Prova Regular;LP;5;2;6;94967;D13;A
+5;Prova Regular;LP;5;2;7;95158;D8;C
+5;Prova Regular;LP;5;2;8;20546;D6;A
+5;Prova Regular;LP;5;2;9;95364;D4;B
+5;Prova Regular;LP;5;2;10;33945;D2;B
+5;Prova Regular;LP;5;2;11;95015;D1;A
+5;Prova Regular;LP;5;3;1;34311;D14;D
+5;Prova Regular;LP;5;3;2;33913;D1;D
+5;Prova Regular;LP;5;3;3;95145;D3;B
+5;Prova Regular;LP;5;3;4;95006;D8;A
+5;Prova Regular;LP;5;3;5;96097;D13;D
+5;Prova Regular;LP;5;3;6;95393;D12;D
+5;Prova Regular;LP;5;3;7;96170;D4;D
+5;Prova Regular;LP;5;3;8;95033;D6;C
+5;Prova Regular;LP;5;3;9;95037;D8;C
+5;Prova Regular;LP;5;3;10;34677;D2;D
+5;Prova Regular;LP;5;3;11;34703;D12;C
+5;Prova Regular;LP;5;4;1;19925;D3;A
+5;Prova Regular;LP;5;4;2;96079;D13;C
+5;Prova Regular;LP;5;4;3;95406;D12;C
+5;Prova Regular;LP;5;4;4;96112;D5;B
+5;Prova Regular;LP;5;4;5;95108;D9;D
+5;Prova Regular;LP;5;4;6;96138;D14;D
+5;Prova Regular;LP;5;4;7;34696;D10;D
+5;Prova Regular;LP;5;4;8;95012;D8;A
+5;Prova Regular;LP;5;4;9;94879;D1;C
+5;Prova Regular;LP;5;4;10;95039;D6;A
+5;Prova Regular;LP;5;4;11;34481;D5;C
+5;Prova Regular;LP;5;5;1;34849;D15;D
+5;Prova Regular;LP;5;5;2;96076;D13;B
+5;Prova Regular;LP;5;5;3;96106;D11;B
+5;Prova Regular;LP;5;5;4;95244;D15;D
+5;Prova Regular;LP;5;5;5;95985;D8;B
+5;Prova Regular;LP;5;5;6;95000;D2;D
+5;Prova Regular;LP;5;5;7;95482;D9;A
+5;Prova Regular;LP;5;5;8;95054;D7;D
+5;Prova Regular;LP;5;5;9;95998;D5;C
+5;Prova Regular;LP;5;5;10;46217;D3;B
+5;Prova Regular;LP;5;5;11;94878;D1;A
+5;Prova Regular;LP;5;6;1;34509;D15;B
+5;Prova Regular;LP;5;6;2;95075;D13;A
+5;Prova Regular;LP;5;6;3;33988;D11;D
+5;Prova Regular;LP;5;6;4;95070;D11;A
+5;Prova Regular;LP;5;6;5;94883;D4;D
+5;Prova Regular;LP;5;6;6;95310;D14;C
+5;Prova Regular;LP;5;6;7;96162;D5;B
+5;Prova Regular;LP;5;6;8;95387;D9;D
+5;Prova Regular;LP;5;6;9;20018;D7;A
+5;Prova Regular;LP;5;6;10;34847;D3;C
+5;Prova Regular;LP;5;6;11;95335;D1;D
+5;Prova Regular;LP;5;7;1;20368;D13;A
+5;Prova Regular;LP;5;7;2;94973;D11;B
+5;Prova Regular;LP;5;7;3;34110;D7;B
+5;Prova Regular;LP;5;7;4;94979;D9;A
+5;Prova Regular;LP;5;7;5;65913;D3;B
+5;Prova Regular;LP;5;7;6;95989;D9;C
+5;Prova Regular;LP;5;7;7;34073;D9;A
+5;Prova Regular;LP;5;7;8;34475;D5;B
+5;Prova Regular;LP;5;7;9;95021;D4;A
+5;Prova Regular;LP;5;7;10;65113;D3;B
+5;Prova Regular;LP;5;7;11;94893;D2;B
+5;Macrotipo;MT;5;1;1;28202;D1;B
+5;Macrotipo;MT;5;1;2;22404;D17;D
+5;Macrotipo;MT;5;1;3;95297;D9;C
+5;Macrotipo;MT;5;1;4;95029;D27;C
+5;Macrotipo;MT;5;1;5;45382;D15;C
+5;Macrotipo;MT;5;1;6;96007;D7;B
+5;Macrotipo;MT;5;1;7;34780;D13;B
+5;Macrotipo;MT;5;1;8;29540;D24;A
+5;Macrotipo;MT;5;1;9;95713;D26;A
+5;Macrotipo;MT;5;1;10;98336;D3;A
+5;Macrotipo;MT;5;1;11;34802;D25;C
+5;Macrotipo;MT;5;2;1;45994;D19;A
+5;Macrotipo;MT;5;2;2;95348;D28;B
+5;Macrotipo;MT;5;2;3;94994;D9;D
+5;Macrotipo;MT;5;2;4;95220;D1;B
+5;Macrotipo;MT;5;2;5;96174;D13;C
+5;Macrotipo;MT;5;2;6;95322;D17;A
+5;Macrotipo;MT;5;2;7;28250;D23;B
+5;Macrotipo;MT;5;2;8;28704;D18;A
+5;Macrotipo;MT;5;2;9;69064;D11;B
+5;Macrotipo;MT;5;2;10;34791;D20;D
+5;Macrotipo;MT;5;2;11;95718;D25;C
+5;Prova Regular;MT;5;1;1;28202;D1;B
+5;Prova Regular;MT;5;1;2;22404;D17;D
+5;Prova Regular;MT;5;1;3;95297;D9;C
+5;Prova Regular;MT;5;1;4;95029;D27;C
+5;Prova Regular;MT;5;1;5;45382;D15;C
+5;Prova Regular;MT;5;1;6;96007;D7;B
+5;Prova Regular;MT;5;1;7;34780;D13;B
+5;Prova Regular;MT;5;1;8;29540;D24;A
+5;Prova Regular;MT;5;1;9;95713;D26;A
+5;Prova Regular;MT;5;1;10;98336;D3;A
+5;Prova Regular;MT;5;1;11;34802;D25;C
+5;Prova Regular;MT;5;2;1;95051;D2;D
+5;Prova Regular;MT;5;2;2;22504;D22;B
+5;Prova Regular;MT;5;2;3;95277;D8;C
+5;Prova Regular;MT;5;2;4;95043;D14;B
+5;Prova Regular;MT;5;2;5;37932;D10;A
+5;Prova Regular;MT;5;2;6;95911;D12;D
+5;Prova Regular;MT;5;2;7;28704;D18;A
+5;Prova Regular;MT;5;2;8;22328;D16;A
+5;Prova Regular;MT;5;2;9;22393;D6;C
+5;Prova Regular;MT;5;2;10;28709;D20;D
+5;Prova Regular;MT;5;2;11;70417;D4;X
+5;Prova Regular;MT;5;3;1;94983;D1;C
+5;Prova Regular;MT;5;3;2;45760;D3;B
+5;Prova Regular;MT;5;3;3;96071;D13;D
+5;Prova Regular;MT;5;3;4;95325;D27;D
+5;Prova Regular;MT;5;3;5;96128;D11;D
+5;Prova Regular;MT;5;3;6;95376;D19;B
+5;Prova Regular;MT;5;3;7;34835;D24;A
+5;Prova Regular;MT;5;3;8;34779;D15;C
+5;Prova Regular;MT;5;3;9;96036;D7;A
+5;Prova Regular;MT;5;3;10;95545;D28;D
+5;Prova Regular;MT;5;3;11;45725;D21;B
+5;Prova Regular;MT;5;4;1;95282;D10;B
+5;Prova Regular;MT;5;4;2;95372;D14;C
+5;Prova Regular;MT;5;4;3;94896;D18;B
+5;Prova Regular;MT;5;4;4;95097;D16;C
+5;Prova Regular;MT;5;4;5;95110;D8;B
+5;Prova Regular;MT;5;4;6;95122;D2;A
+5;Prova Regular;MT;5;4;7;95024;D20;A
+5;Prova Regular;MT;5;4;8;46033;D4;A
+5;Prova Regular;MT;5;4;9;95593;D22;D
+5;Prova Regular;MT;5;4;10;96012;D12;C
+5;Prova Regular;MT;5;4;11;45620;D6;B
+5;Prova Regular;MT;5;5;1;46063;D19;A
+5;Prova Regular;MT;5;5;2;94898;D27;B
+5;Prova Regular;MT;5;5;3;34815;D3;A
+5;Prova Regular;MT;5;5;4;95065;D17;B
+5;Prova Regular;MT;5;5;5;95621;D23;A
+5;Prova Regular;MT;5;5;6;96101;D13;C
+5;Prova Regular;MT;5;5;7;28122;D28;B
+5;Prova Regular;MT;5;5;8;28463;D7;C
+5;Prova Regular;MT;5;5;9;96135;D11;D
+5;Prova Regular;MT;5;5;10;95976;D5;A
+5;Prova Regular;MT;5;5;11;45922;D21;C
+5;Prova Regular;MT;5;6;1;67464;D10;C
+5;Prova Regular;MT;5;6;2;70405;D6;A
+5;Prova Regular;MT;5;6;3;95374;D14;B
+5;Prova Regular;MT;5;6;4;95073;D4;D
+5;Prova Regular;MT;5;6;5;95607;D2;B
+5;Prova Regular;MT;5;6;6;95665;D24;C
+5;Prova Regular;MT;5;6;7;94962;D18;D
+5;Prova Regular;MT;5;6;8;95600;D16;D
+5;Prova Regular;MT;5;6;9;95513;D8;B
+5;Prova Regular;MT;5;6;10;65902;D12;D
+5;Prova Regular;MT;5;6;11;95198;D26;A
+5;Prova Regular;MT;5;7;1;45994;D19;A
+5;Prova Regular;MT;5;7;2;95348;D28;B
+5;Prova Regular;MT;5;7;3;94994;D9;D
+5;Prova Regular;MT;5;7;4;95220;D1;B
+5;Prova Regular;MT;5;7;5;96174;D13;C
+5;Prova Regular;MT;5;7;6;95322;D17;A
+5;Prova Regular;MT;5;7;7;28250;D23;B
+5;Prova Regular;MT;5;7;8;46058;D5;A
+5;Prova Regular;MT;5;7;9;69064;D11;B
+5;Prova Regular;MT;5;7;10;34791;D20;D
+5;Prova Regular;MT;5;7;11;95718;D25;C
+9;Macrotipo;CH;9;1;1;51422;B5;B
+9;Macrotipo;CH;9;1;2;66703;B3;C
+9;Macrotipo;CH;9;1;3;68458;A5;A
+9;Macrotipo;CH;9;1;4;68978;B6;D
+9;Macrotipo;CH;9;1;5;114577;B4;C
+9;Macrotipo;CH;9;1;6;65295;B4;C
+9;Macrotipo;CH;9;1;7;65464;B6;B
+9;Macrotipo;CH;9;1;8;65749;A2;B
+9;Macrotipo;CH;9;1;9;115491;C6;A
+9;Macrotipo;CH;9;1;10;114739;C1;D
+9;Macrotipo;CH;9;2;1;51144;C4;C
+9;Macrotipo;CH;9;2;2;115671;C4;A
+9;Macrotipo;CH;9;2;3;68427;B1;D
+9;Macrotipo;CH;9;2;4;115695;B4;A
+9;Macrotipo;CH;9;2;5;65393;B5;D
+9;Macrotipo;CH;9;2;6;51176;B5;C
+9;Macrotipo;CH;9;2;7;69011;A6;B
+9;Macrotipo;CH;9;2;8;69007;C2;B
+9;Macrotipo;CH;9;2;9;65297;B6;C
+9;Macrotipo;CH;9;2;10;67354;B6;D
+9;Macrotipo;CH;9;3;1;115322;C3;A
+9;Macrotipo;CH;9;3;2;114597;B4;B
+9;Macrotipo;CH;9;3;3;50804;B6;D
+9;Macrotipo;CH;9;3;4;69416;B2;D
+9;Macrotipo;CH;9;3;5;67499;A5;B
+9;Macrotipo;CH;9;3;6;69116;B4;D
+9;Macrotipo;CH;9;3;7;51473;B3;C
+9;Macrotipo;CH;9;3;8;50795;B5;B
+9;Macrotipo;CH;9;3;9;69017;B6;A
+9;Macrotipo;CH;9;3;10;64978;A3;C
+9;Prova Regular;CH;9;1;1;66972;A6;D
+9;Prova Regular;CH;9;1;2;67191;B4;A
+9;Prova Regular;CH;9;1;3;65704;B2;A
+9;Prova Regular;CH;9;1;4;51206;B3;D
+9;Prova Regular;CH;9;1;5;51119;B6;C
+9;Prova Regular;CH;9;1;6;113409;C3;A
+9;Prova Regular;CH;9;1;7;115542;C5;B
+9;Prova Regular;CH;9;1;8;65619;A2;C
+9;Prova Regular;CH;9;1;9;68958;B3;D
+9;Prova Regular;CH;9;1;10;65261;B6;B
+9;Prova Regular;CH;9;2;1;51345;C5;A
+9;Prova Regular;CH;9;2;2;115518;C5;D
+9;Prova Regular;CH;9;2;3;51331;B5;C
+9;Prova Regular;CH;9;2;4;51130;B6;B
+9;Prova Regular;CH;9;2;5;69375;A2;D
+9;Prova Regular;CH;9;2;6;65713;B4;C
+9;Prova Regular;CH;9;2;7;65303;A1;D
+9;Prova Regular;CH;9;2;8;65849;B3;B
+9;Prova Regular;CH;9;2;9;51116;A6;C
+9;Prova Regular;CH;9;2;10;51486;C3;A
+9;Prova Regular;CH;9;3;1;50772;A3;C
+9;Prova Regular;CH;9;3;2;114110;C5;C
+9;Prova Regular;CH;9;3;3;68910;B1;B
+9;Prova Regular;CH;9;3;4;66702;B6;B
+9;Prova Regular;CH;9;3;5;115692;C5;D
+9;Prova Regular;CH;9;3;6;69200;B4;D
+9;Prova Regular;CH;9;3;7;114784;B4;A
+9;Prova Regular;CH;9;3;8;51140;B6;B
+9;Prova Regular;CH;9;3;9;65380;A6;A
+9;Prova Regular;CH;9;3;10;51180;C2;C
+9;Prova Regular;CH;9;4;1;115560;C6;A
+9;Prova Regular;CH;9;4;2;66032;C2;D
+9;Prova Regular;CH;9;4;3;50825;C4;A
+9;Prova Regular;CH;9;4;4;115315;C1;A
+9;Prova Regular;CH;9;4;5;65979;B4;B
+9;Prova Regular;CH;9;4;6;50769;B4;B
+9;Prova Regular;CH;9;4;7;66704;B3;D
+9;Prova Regular;CH;9;4;8;51440;A5;C
+9;Prova Regular;CH;9;4;9;50802;A1;C
+9;Prova Regular;CH;9;4;10;66396;B6;B
+9;Prova Regular;CH;9;5;1;51422;B5;B
+9;Prova Regular;CH;9;5;2;66703;B3;C
+9;Prova Regular;CH;9;5;3;68458;A5;A
+9;Prova Regular;CH;9;5;4;68978;B6;D
+9;Prova Regular;CH;9;5;5;114577;B4;C
+9;Prova Regular;CH;9;5;6;65295;B4;C
+9;Prova Regular;CH;9;5;7;65464;B6;B
+9;Prova Regular;CH;9;5;8;65749;A2;B
+9;Prova Regular;CH;9;5;9;115491;C6;A
+9;Prova Regular;CH;9;5;10;114739;C1;D
+9;Prova Regular;CH;9;6;1;65343;A4;B
+9;Prova Regular;CH;9;6;2;66008;A6;D
+9;Prova Regular;CH;9;6;3;65647;B4;C
+9;Prova Regular;CH;9;6;4;65081;B2;C
+9;Prova Regular;CH;9;6;5;113836;C5;D
+9;Prova Regular;CH;9;6;6;114727;C6;A
+9;Prova Regular;CH;9;6;7;69408;B2;B
+9;Prova Regular;CH;9;6;8;66514;B4;A
+9;Prova Regular;CH;9;6;9;50872;B3;C
+9;Prova Regular;CH;9;6;10;68986;B6;D
+9;Prova Regular;CH;9;7;1;50808;A6;C
+9;Prova Regular;CH;9;7;2;51032;B3;B
+9;Prova Regular;CH;9;7;3;69302;B5;B
+9;Prova Regular;CH;9;7;4;65353;B5;A
+9;Prova Regular;CH;9;7;5;66395;A4;D
+9;Prova Regular;CH;9;7;6;64940;B5;D
+9;Prova Regular;CH;9;7;7;65407;C6;A
+9;Prova Regular;CH;9;7;8;51044;B6;C
+9;Prova Regular;CH;9;7;9;51356;B6;A
+9;Prova Regular;CH;9;7;10;50885;A2;B
+9;Prova Regular;CH;9;8;1;51144;C4;C
+9;Prova Regular;CH;9;8;2;115671;C4;A
+9;Prova Regular;CH;9;8;3;68427;B1;D
+9;Prova Regular;CH;9;8;4;115695;B4;A
+9;Prova Regular;CH;9;8;5;65393;B5;D
+9;Prova Regular;CH;9;8;6;51176;B5;C
+9;Prova Regular;CH;9;8;7;69011;A6;B
+9;Prova Regular;CH;9;8;8;69007;C2;B
+9;Prova Regular;CH;9;8;9;65297;B6;C
+9;Prova Regular;CH;9;8;10;67354;B6;D
+9;Prova Regular;CH;9;9;1;50873;A3;D
+9;Prova Regular;CH;9;9;2;50997;A4;C
+9;Prova Regular;CH;9;9;3;65383;B1;C
+9;Prova Regular;CH;9;9;4;65000;A2;D
+9;Prova Regular;CH;9;9;5;65709;C6;A
+9;Prova Regular;CH;9;9;6;65208;A6;B
+9;Prova Regular;CH;9;9;7;65635;B5;D
+9;Prova Regular;CH;9;9;8;69406;B6;B
+9;Prova Regular;CH;9;9;9;50957;A1;A
+9;Prova Regular;CH;9;9;10;114972;C3;B
+9;Prova Regular;CH;9;10;1;115322;C3;A
+9;Prova Regular;CH;9;10;2;114597;B4;B
+9;Prova Regular;CH;9;10;3;50804;B6;D
+9;Prova Regular;CH;9;10;4;69416;B2;D
+9;Prova Regular;CH;9;10;5;67499;A5;B
+9;Prova Regular;CH;9;10;6;69116;B4;D
+9;Prova Regular;CH;9;10;7;51473;B3;C
+9;Prova Regular;CH;9;10;8;50795;B5;B
+9;Prova Regular;CH;9;10;9;69017;B6;A
+9;Prova Regular;CH;9;10;10;64978;A3;C
+9;Prova Regular;CH;9;11;1;51456;B4;A
+9;Prova Regular;CH;9;11;2;65745;B2;D
+9;Prova Regular;CH;9;11;3;50877;B6;C
+9;Prova Regular;CH;9;11;4;68931;A4;A
+9;Prova Regular;CH;9;11;5;51453;B1;B
+9;Prova Regular;CH;9;11;6;69381;B4;B
+9;Prova Regular;CH;9;11;7;65077;A2;B
+9;Prova Regular;CH;9;11;8;115556;C3;A
+9;Prova Regular;CH;9;11;9;65532;A3;C
+9;Prova Regular;CH;9;11;10;51205;B5;D
+9;Prova Regular;CH;9;12;1;65732;B2;C
+9;Prova Regular;CH;9;12;2;115553;C5;A
+9;Prova Regular;CH;9;12;3;66700;B4;B
+9;Prova Regular;CH;9;12;4;65211;B5;D
+9;Prova Regular;CH;9;12;5;51291;B6;D
+9;Prova Regular;CH;9;12;6;64938;A6;C
+9;Prova Regular;CH;9;12;7;67500;B4;A
+9;Prova Regular;CH;9;12;8;65971;A5;B
+9;Prova Regular;CH;9;12;9;69410;B6;A
+9;Prova Regular;CH;9;12;10;51106;B2;C
+9;Prova Regular;CH;9;13;1;64934;B4;A
+9;Prova Regular;CH;9;13;2;65323;A4;C
+9;Prova Regular;CH;9;13;3;51245;B2;D
+9;Prova Regular;CH;9;13;4;115490;C5;B
+9;Prova Regular;CH;9;13;5;115925;C6;D
+9;Prova Regular;CH;9;13;6;65324;B3;B
+9;Prova Regular;CH;9;13;7;65158;B4;C
+9;Prova Regular;CH;9;13;8;50956;B6;B
+9;Prova Regular;CH;9;13;9;51445;B2;A
+9;Prova Regular;CH;9;13;10;50788;B4;A
+9;Macrotipo;CN;9;1;1;51348;B2;D
+9;Macrotipo;CN;9;1;2;114506;C3;D
+9;Macrotipo;CN;9;1;3;115328;C2;A
+9;Macrotipo;CN;9;1;4;69477;A1;C
+9;Macrotipo;CN;9;1;5;51168;B1;A
+9;Macrotipo;CN;9;1;6;65808;A3;D
+9;Macrotipo;CN;9;1;7;66566;B2;B
+9;Macrotipo;CN;9;1;8;65955;B3;A
+9;Macrotipo;CN;9;1;9;50770;A2;D
+9;Macrotipo;CN;9;2;1;112946;B2;C
+9;Macrotipo;CN;9;2;2;50759;A1;D
+9;Macrotipo;CN;9;2;3;113879;A2;C
+9;Macrotipo;CN;9;2;4;51132;C1;B
+9;Macrotipo;CN;9;2;5;113200;B2;A
+9;Macrotipo;CN;9;2;6;115367;A3;B
+9;Macrotipo;CN;9;2;7;65125;B1;C
+9;Macrotipo;CN;9;2;8;50878;C2;D
+9;Macrotipo;CN;9;2;9;113077;B3;A
+9;Macrotipo;CN;9;3;1;66086;C1;D
+9;Macrotipo;CN;9;3;2;50855;B2;A
+9;Macrotipo;CN;9;3;3;50765;A1;D
+9;Macrotipo;CN;9;3;4;51339;A2;C
+9;Macrotipo;CN;9;3;5;50984;B2;B
+9;Macrotipo;CN;9;3;6;65976;B1;C
+9;Macrotipo;CN;9;3;7;51340;C2;D
+9;Macrotipo;CN;9;3;8;115496;A3;C
+9;Macrotipo;CN;9;3;9;65335;B3;B
+9;Prova Regular;CN;9;1;1;51348;B2;D
+9;Prova Regular;CN;9;1;2;114506;C3;D
+9;Prova Regular;CN;9;1;3;115328;C2;A
+9;Prova Regular;CN;9;1;4;69477;A1;C
+9;Prova Regular;CN;9;1;5;51168;B1;A
+9;Prova Regular;CN;9;1;6;65808;A3;D
+9;Prova Regular;CN;9;1;7;66566;B2;B
+9;Prova Regular;CN;9;1;8;65955;B3;A
+9;Prova Regular;CN;9;1;9;50770;A2;D
+9;Prova Regular;CN;9;2;1;50800;A2;A
+9;Prova Regular;CN;9;2;2;50870;B1;B
+9;Prova Regular;CN;9;2;3;65305;A1;A
+9;Prova Regular;CN;9;2;4;50953;A3;C
+9;Prova Regular;CN;9;2;5;65148;B3;D
+9;Prova Regular;CN;9;2;6;51321;C1;B
+9;Prova Regular;CN;9;2;7;50954;B2;D
+9;Prova Regular;CN;9;2;8;65182;B2;A
+9;Prova Regular;CN;9;2;9;113968;B3;D
+9;Prova Regular;CN;9;3;1;65573;B3;B
+9;Prova Regular;CN;9;3;2;65168;B2;A
+9;Prova Regular;CN;9;3;3;51240;A1;B
+9;Prova Regular;CN;9;3;4;65654;A3;C
+9;Prova Regular;CN;9;3;5;51170;C1;B
+9;Prova Regular;CN;9;3;6;115493;C3;C
+9;Prova Regular;CN;9;3;7;115338;B3;A
+9;Prova Regular;CN;9;3;8;69441;B1;A
+9;Prova Regular;CN;9;3;9;112911;B2;C
+9;Prova Regular;CN;9;4;1;112946;B2;C
+9;Prova Regular;CN;9;4;2;50759;A1;D
+9;Prova Regular;CN;9;4;3;113879;A2;C
+9;Prova Regular;CN;9;4;4;51132;C1;B
+9;Prova Regular;CN;9;4;5;113200;B2;A
+9;Prova Regular;CN;9;4;6;115367;A3;B
+9;Prova Regular;CN;9;4;7;65125;B1;C
+9;Prova Regular;CN;9;4;8;50878;C2;D
+9;Prova Regular;CN;9;4;9;113077;B3;A
+9;Prova Regular;CN;9;5;1;66086;C1;D
+9;Prova Regular;CN;9;5;2;50855;B2;A
+9;Prova Regular;CN;9;5;3;50765;A1;D
+9;Prova Regular;CN;9;5;4;51339;A2;C
+9;Prova Regular;CN;9;5;5;50984;B2;B
+9;Prova Regular;CN;9;5;6;65976;B1;C
+9;Prova Regular;CN;9;5;7;51340;C2;D
+9;Prova Regular;CN;9;5;8;115496;A3;C
+9;Prova Regular;CN;9;5;9;65335;B3;B
+9;Prova Regular;CN;9;6;1;114366;C2;D
+9;Prova Regular;CN;9;6;2;51063;C1;A
+9;Prova Regular;CN;9;6;3;51347;B3;C
+9;Prova Regular;CN;9;6;4;115450;A3;D
+9;Prova Regular;CN;9;6;5;50903;B1;B
+9;Prova Regular;CN;9;6;6;51073;A2;D
+9;Prova Regular;CN;9;6;7;69221;B2;C
+9;Prova Regular;CN;9;6;8;115314;B2;C
+9;Prova Regular;CN;9;6;9;50734;A1;A
+9;Prova Regular;CN;9;7;1;51416;B3;C
+9;Prova Regular;CN;9;7;2;67514;A2;C
+9;Prova Regular;CN;9;7;3;113431;C2;B
+9;Prova Regular;CN;9;7;4;50838;A3;C
+9;Prova Regular;CN;9;7;5;113594;B1;B
+9;Prova Regular;CN;9;7;6;51024;B1;C
+9;Prova Regular;CN;9;7;7;113098;C3;C
+9;Prova Regular;CN;9;7;8;69539;C1;B
+9;Prova Regular;CN;9;7;9;51308;B2;A
+9;Macrotipo;LP;9;1;1;110813;D2;A
+9;Macrotipo;LP;9;1;2;109459;D6;B
+9;Macrotipo;LP;9;1;3;110706;D9;B
+9;Macrotipo;LP;9;1;4;34752;D1;B
+9;Macrotipo;LP;9;1;5;34088;D8;D
+9;Macrotipo;LP;9;1;6;66061;D11;D
+9;Macrotipo;LP;5;1;7;34849;D15;D
+9;Macrotipo;LP;5;1;8;96106;D11;B
+9;Macrotipo;LP;5;1;9;95482;D9;A
+9;Macrotipo;LP;9;1;10;109426;D21;A
+9;Macrotipo;LP;9;1;11;109887;D12;C
+9;Macrotipo;LP;9;1;12;110035;D13;C
+9;Macrotipo;LP;9;1;13;111255;D19;A
+9;Macrotipo;LP;9;2;1;109216;D6;B
+9;Macrotipo;LP;9;2;2;70152;D8;A
+9;Macrotipo;LP;9;2;3;20492;D3;B
+9;Macrotipo;LP;9;2;4;34578;D6;B
+9;Macrotipo;LP;9;2;5;65698;D19;B
+9;Macrotipo;LP;9;2;6;34743;D16;C
+9;Macrotipo;LP;5;2;7;33988;D11;D
+9;Macrotipo;LP;5;2;8;95387;D9;D
+9;Macrotipo;LP;5;2;9;34021;D12;B
+9;Macrotipo;LP;9;2;10;110499;D12;A
+9;Macrotipo;LP;9;2;11;109220;D14;C
+9;Macrotipo;LP;9;2;12;69445;D17;A
+9;Macrotipo;LP;9;2;13;67476;D18;C
+9;Prova Regular;LP;9;1;1;109189;D1;C
+9;Prova Regular;LP;9;1;2;110780;D4;A
+9;Prova Regular;LP;9;1;3;110752;D7;D
+9;Prova Regular;LP;9;1;4;34507;D8;B
+9;Prova Regular;LP;9;1;5;69870;D11;A
+9;Prova Regular;LP;9;1;6;66130;D17;D
+9;Prova Regular;LP;5;1;7;95359;D14;B
+9;Prova Regular;LP;5;1;8;20208;D6;B
+9;Prova Regular;LP;5;1;9;68987;D4;A
+9;Prova Regular;LP;9;1;10;69493;D10;D
+9;Prova Regular;LP;9;1;11;69783;D15;B
+9;Prova Regular;LP;9;1;12;110907;D13;A
+9;Prova Regular;LP;9;1;13;34925;D20;C
+9;Prova Regular;LP;9;2;1;110152;D1;C
+9;Prova Regular;LP;9;2;2;109806;D8;C
+9;Prova Regular;LP;9;2;3;34541;D5;B
+9;Prova Regular;LP;9;2;4;70074;D2;C
+9;Prova Regular;LP;9;2;5;34396;D3;D
+9;Prova Regular;LP;9;2;6;20039;D10;B
+9;Prova Regular;LP;5;2;7;95151;D8;C
+9;Prova Regular;LP;5;2;8;34021;D12;B
+9;Prova Regular;LP;5;2;9;34693;D14;D
+9;Prova Regular;LP;9;2;10;110258;D14;D
+9;Prova Regular;LP;9;2;11;69125;D18;A
+9;Prova Regular;LP;9;2;12;110508;D11;C
+9;Prova Regular;LP;9;2;13;111138;D19;D
+9;Prova Regular;LP;9;3;1;110523;D1;A
+9;Prova Regular;LP;9;3;2;109223;D6;D
+9;Prova Regular;LP;9;3;3;66617;D9;B
+9;Prova Regular;LP;9;3;4;34409;D3;B
+9;Prova Regular;LP;9;3;5;19973;D12;D
+9;Prova Regular;LP;9;3;6;65021;D14;A
+9;Prova Regular;LP;5;3;7;66158;D10;C
+9;Prova Regular;LP;5;3;8;95015;D1;A
+9;Prova Regular;LP;5;3;9;96170;D4;D
+9;Prova Regular;LP;9;3;10;109227;D10;D
+9;Prova Regular;LP;9;3;11;109630;D15;A
+9;Prova Regular;LP;9;3;12;69914;D16;C
+9;Prova Regular;LP;9;3;13;109535;D19;C
+9;Prova Regular;LP;9;4;1;109354;D2;D
+9;Prova Regular;LP;9;4;2;109214;D4;C
+9;Prova Regular;LP;9;4;3;111079;D7;D
+9;Prova Regular;LP;9;4;4;45623;D5;A
+9;Prova Regular;LP;9;4;5;34403;D15;B
+9;Prova Regular;LP;9;4;6;66137;D16;B
+9;Prova Regular;LP;5;4;7;34703;D12;C
+9;Prova Regular;LP;5;4;8;34677;D2;D
+9;Prova Regular;LP;5;4;9;19925;D3;A
+9;Prova Regular;LP;9;4;10;110274;D10;B
+9;Prova Regular;LP;9;4;11;111302;D11;B
+9;Prova Regular;LP;9;4;12;111277;D17;A
+9;Prova Regular;LP;9;4;13;65051;D21;D
+9;Prova Regular;LP;9;5;1;110813;D2;A
+9;Prova Regular;LP;9;5;2;109459;D6;B
+9;Prova Regular;LP;9;5;3;110706;D9;B
+9;Prova Regular;LP;9;5;4;34752;D1;B
+9;Prova Regular;LP;9;5;5;34088;D8;D
+9;Prova Regular;LP;9;5;6;66061;D11;D
+9;Prova Regular;LP;5;5;7;34849;D15;D
+9;Prova Regular;LP;5;5;8;96106;D11;B
+9;Prova Regular;LP;5;5;9;95482;D9;A
+9;Prova Regular;LP;9;5;10;109426;D21;A
+9;Prova Regular;LP;9;5;11;109887;D12;C
+9;Prova Regular;LP;9;5;12;110035;D13;C
+9;Prova Regular;LP;9;5;13;111255;D19;A
+9;Prova Regular;LP;9;6;1;110522;D3;C
+9;Prova Regular;LP;9;6;2;110848;D7;C
+9;Prova Regular;LP;9;6;3;65615;D10;C
+9;Prova Regular;LP;9;6;4;33912;D1;C
+9;Prova Regular;LP;9;6;5;66097;D2;C
+9;Prova Regular;LP;9;6;6;69273;D20;D
+9;Prova Regular;LP;5;6;7;95054;D7;D
+9;Prova Regular;LP;5;6;8;46217;D3;B
+9;Prova Regular;LP;5;6;9;95075;D13;A
+9;Prova Regular;LP;9;6;10;109866;D12;C
+9;Prova Regular;LP;9;6;11;109937;D14;B
+9;Prova Regular;LP;9;6;12;109234;D15;B
+9;Prova Regular;LP;9;6;13;111224;D16;D
+9;Prova Regular;LP;9;7;1;109216;D6;B
+9;Prova Regular;LP;9;7;2;70152;D8;A
+9;Prova Regular;LP;9;7;3;20492;D3;B
+9;Prova Regular;LP;9;7;4;34578;D6;B
+9;Prova Regular;LP;9;7;5;65698;D19;B
+9;Prova Regular;LP;9;7;6;34743;D16;C
+9;Prova Regular;LP;5;7;7;33988;D11;D
+9;Prova Regular;LP;5;7;8;95387;D9;D
+9;Prova Regular;LP;5;7;9;34475;D5;B
+9;Prova Regular;LP;9;7;10;110499;D12;A
+9;Prova Regular;LP;9;7;11;109220;D14;C
+9;Prova Regular;LP;9;7;12;69445;D17;A
+9;Prova Regular;LP;9;7;13;67476;D18;C
+9;Macrotipo;MT;9;1;1;111299;D33;D
+9;Macrotipo;MT;9;1;2;110193;D12;B
+9;Macrotipo;MT;9;1;3;110417;D28;A
+9;Macrotipo;MT;9;1;4;28448;D25;D
+9;Macrotipo;MT;9;1;5;28041;D19;D
+9;Macrotipo;MT;9;1;6;45381;D23;B
+9;Macrotipo;MT;5;1;7;94898;D27;B
+9;Macrotipo;MT;5;1;8;34779;D15;C
+9;Macrotipo;MT;5;1;9;95277;D8;C
+9;Macrotipo;MT;9;1;10;109914;D10;D
+9;Macrotipo;MT;9;1;11;110174;D3;D
+9;Macrotipo;MT;9;1;12;65946;D13;C
+9;Macrotipo;MT;9;1;13;28938;D30;B
+9;Macrotipo;MT;9;2;1;112432;D18;B
+9;Macrotipo;MT;9;2;2;112292;D24;A
+9;Macrotipo;MT;9;2;3;109757;D29;A
+9;Macrotipo;MT;9;2;4;45460;D36;A
+9;Macrotipo;MT;9;2;5;38313;D20;B
+9;Macrotipo;MT;9;2;6;34969;D26;A
+9;Macrotipo;MT;5;2;7;95297;D9;C
+9;Macrotipo;MT;5;2;8;95374;D14;B
+9;Macrotipo;MT;5;2;9;28463;D7;C
+9;Macrotipo;MT;9;2;10;70499;D31;A
+9;Macrotipo;MT;9;2;11;46114;D22;A
+9;Macrotipo;MT;9;2;12;109256;D4;B
+9;Macrotipo;MT;9;2;13;112372;D32;A
+9;Prova Regular;MT;9;1;1;111022;D37;B
+9;Prova Regular;MT;9;1;2;110254;D29;A
+9;Prova Regular;MT;9;1;3;110754;D4;A
+9;Prova Regular;MT;9;1;4;45381;D23;B
+9;Prova Regular;MT;9;1;5;45460;D36;A
+9;Prova Regular;MT;9;1;6;69239;D28;C
+9;Prova Regular;MT;5;1;7;95297;D9;C
+9;Prova Regular;MT;5;1;8;95051;D2;D
+9;Prova Regular;MT;5;1;9;94962;D18;D
+9;Prova Regular;MT;9;1;10;110953;D34;D
+9;Prova Regular;MT;9;1;11;109916;D7;C
+9;Prova Regular;MT;9;1;12;110042;D13;C
+9;Prova Regular;MT;9;1;13;28938;D30;B
+9;Prova Regular;MT;9;2;1;111299;D33;D
+9;Prova Regular;MT;9;2;2;67422;D14;A
+9;Prova Regular;MT;9;2;3;110417;D28;A
+9;Prova Regular;MT;9;2;4;28448;D25;D
+9;Prova Regular;MT;9;2;5;28041;D19;D
+9;Prova Regular;MT;9;2;6;70371;D1;B
+9;Prova Regular;MT;5;2;7;94898;D27;B
+9;Prova Regular;MT;5;2;8;34779;D15;C
+9;Prova Regular;MT;5;2;9;95277;D8;C
+9;Prova Regular;MT;9;2;10;109914;D10;D
+9;Prova Regular;MT;9;2;11;110516;D5;C
+9;Prova Regular;MT;9;2;12;65946;D13;C
+9;Prova Regular;MT;9;2;13;46380;D11;B
+9;Prova Regular;MT;9;3;1;111359;D34;A
+9;Prova Regular;MT;9;3;2;109513;D12;A
+9;Prova Regular;MT;9;3;3;109515;D2;D
+9;Prova Regular;MT;9;3;4;22348;D36;C
+9;Prova Regular;MT;9;3;5;45421;D23;B
+9;Prova Regular;MT;9;3;6;46520;D6;D
+9;Prova Regular;MT;5;3;7;22504;D22;B
+9;Prova Regular;MT;5;3;8;95024;D20;A
+9;Prova Regular;MT;5;3;9;95600;D16;D
+9;Prova Regular;MT;9;3;10;111140;D33;D
+9;Prova Regular;MT;9;3;11;103238;D10;B
+9;Prova Regular;MT;9;3;12;109980;D32;C
+9;Prova Regular;MT;9;3;13;65992;D14;C
+9;Prova Regular;MT;9;4;1;109873;D2;D
+9;Prova Regular;MT;9;4;2;112292;D24;A
+9;Prova Regular;MT;9;4;3;109757;D29;A
+9;Prova Regular;MT;9;4;4;45407;D37;B
+9;Prova Regular;MT;9;4;5;38313;D20;B
+9;Prova Regular;MT;9;4;6;34969;D26;A
+9;Prova Regular;MT;5;4;7;95282;D10;B
+9;Prova Regular;MT;5;4;8;95374;D14;B
+9;Prova Regular;MT;5;4;9;28463;D7;C
+9;Prova Regular;MT;9;4;10;70499;D31;A
+9;Prova Regular;MT;9;4;11;110296;D7;D
+9;Prova Regular;MT;9;4;12;109256;D4;B
+9;Prova Regular;MT;9;4;13;112372;D32;A
+9;Prova Regular;MT;9;5;1;47013;D24;D
+9;Prova Regular;MT;9;5;2;22358;D16;C
+9;Prova Regular;MT;9;5;3;109872;D29;A
+9;Prova Regular;MT;9;5;4;38308;D23;C
+9;Prova Regular;MT;9;5;5;22191;D37;C
+9;Prova Regular;MT;9;5;6;65438;D20;B
+9;Prova Regular;MT;5;5;7;95545;D28;D
+9;Prova Regular;MT;5;5;8;34802;D25;C
+9;Prova Regular;MT;5;5;9;34835;D24;A
+9;Prova Regular;MT;9;5;10;109581;D3;D
+9;Prova Regular;MT;9;5;11;110581;D4;D
+9;Prova Regular;MT;9;5;12;46121;D11;B
+9;Prova Regular;MT;9;5;13;112432;D18;B
+9;Prova Regular;MT;9;6;1;46114;D22;A
+9;Prova Regular;MT;9;6;2;67305;D13;B
+9;Prova Regular;MT;9;6;3;34936;D9;C
+9;Prova Regular;MT;9;6;4;65597;D20;C
+9;Prova Regular;MT;9;6;5;45455;D37;D
+9;Prova Regular;MT;9;6;6;28861;D26;B
+9;Prova Regular;MT;5;6;7;95372;D14;C
+9;Prova Regular;MT;5;6;8;28250;D23;B
+9;Prova Regular;MT;5;6;9;22393;D6;C
+9;Prova Regular;MT;9;6;10;110174;D3;D
+9;Prova Regular;MT;9;6;11;110496;D28;A
+9;Prova Regular;MT;9;6;12;110352;D10;B
+9;Prova Regular;MT;9;6;13;47085;D21;A
+9;Prova Regular;MT;9;7;1;66364;D16;C
+9;Prova Regular;MT;9;7;2;110466;D36;B
+9;Prova Regular;MT;9;7;3;46383;D21;A
+9;Prova Regular;MT;9;7;4;45428;D37;C
+9;Prova Regular;MT;9;7;5;34891;D1;D
+9;Prova Regular;MT;9;7;6;47087;D22;D
+9;Prova Regular;MT;5;7;7;95718;D25;C
+9;Prova Regular;MT;5;7;8;34815;D3;A
+9;Prova Regular;MT;5;7;9;28709;D20;D
+9;Prova Regular;MT;9;7;10;109731;D29;D
+9;Prova Regular;MT;9;7;11;110193;D12;B
+9;Prova Regular;MT;9;7;12;111357;D8;D
+9;Prova Regular;MT;9;7;13;46644;D35;A
